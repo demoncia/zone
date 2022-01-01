@@ -1,0 +1,6 @@
+cache/
+out/
+sql/
+map/
+*.blend1
+*.log
