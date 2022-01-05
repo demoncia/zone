@@ -1,0 +1,217 @@
+# Exported by EQG Zone Importer v1.7
+
+newmtl Material #46
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd ab_maze01_c.dds
+map_Bump ab_maze01_n.dds
+
+newmtl Material #47
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd ab_maze02_c.dds
+map_Bump ab_maze02_n.dds
+
+newmtl Material #48
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd ab_maze03_c.dds
+map_Bump ab_maze03_n.dds
+
+newmtl Material #3302
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Power_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3303
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Power_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3304
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Arcana_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3305
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Arcana_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3306
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Body_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3307
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Body_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3308
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Tactics_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3309
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Tactics_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3310
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Mind_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3311
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Mind_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3312
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze01_Realms_c.dds
+map_Bump Di_Maze01_Main_n.dds
+
+newmtl Material #3313
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_Maze03_Realms_c.dds
+map_Bump Di_Maze03_Main_n.dds
+
+newmtl Material #3314
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_c.dds
+map_Bump Di_floor01_n.dds
+
+newmtl Material #3315
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_crumble_c.dds
+map_Bump Di_floor01_crumble_n.dds
+
+newmtl Material #3316
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Arcana_c.dds
+map_Bump Di_floor01_Arcana_n.dds
+
+newmtl Material #3317
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Tactics_c.dds
+map_Bump Di_floor01_Tactics_n.dds
+
+newmtl Material #3318
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Power_c.dds
+map_Bump Di_floor01_Power_n.dds
+
+newmtl Material #3319
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Mind_c.dds
+map_Bump Di_floor01_Mind_n.dds
+
+newmtl Material #3320
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Body_c.dds
+map_Bump Di_floor01_Body_n.dds
+
+newmtl Material #3321
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd Di_floor01_Realms_c.dds
+map_Bump Di_floor01_Realms_n.dds
+
+newmtl Material #3322
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd av_rock12_c.dds
+map_Bump av_rock12_n.dds
+
+newmtl Material #3323
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd av_rock06_c.dds
+map_Bump av_rock06_n.dds
+
+newmtl Material #3324
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd av_canvas01_c.dds
+
+newmtl Material #3325
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+map_Kd av_rock03_c.dds
+map_Bump av_rock03_n.dds
+
